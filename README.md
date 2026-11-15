@@ -3,7 +3,10 @@ TypeScript · React · Next.js · Node.js · London
 
 I build scalable, high-performance web platforms, focusing on software architecture, platform engineering, and AI-assisted development.
 
-[whatitis.dev](https://whatitis.dev/) · [signal.youpan.com](https://signal.youpan.com/) · [LinkedIn](https://www.linkedin.com/in/pepa-dom)
+
+<a href="https://whatitis.dev/" target="_blank">whatitis.dev</a> ·
+<a href="https://signal.youpan.com/" target="_blank">signal.youpan.com</a> ·
+<a href="https://www.linkedin.com/in/pepa-dom" target="_blank">LinkedIn</a>
 
 > "Using no way as a way, having no limitation as limitation."
 
