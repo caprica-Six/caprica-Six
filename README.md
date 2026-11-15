@@ -1,4 +1,11 @@
-## Hi there 👋
+### 👋 Senior Software Engineer (Full-Stack)
+TypeScript · React · Next.js · Node.js · London
+
+I build scalable, high-performance web platforms, focusing on software architecture, platform engineering, and AI-assisted development.
+
+[whatitis.dev](https://whatitis.dev/) · [signal.youpan.com](https://signal.youpan.com/) · [LinkedIn](https://www.linkedin.com/in/pepa-dom)
+
+> "Using no way as a way, having no limitation as limitation."
 
 <!--
 **caprica-Six/caprica-Six** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
