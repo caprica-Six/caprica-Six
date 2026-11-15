@@ -1,8 +1,7 @@
 ### 👋 Senior Software Engineer (Full-Stack)
 TypeScript · React · Next.js · Node.js · London
 
-I build scalable, high-performance web platforms, focusing on software architecture, platform engineering, and AI-assisted development.
-
+Working with TypeScript, React, Next.js and Node.js, focused on scalable architecture, platform migrations, web performance and agentic engineering.
 
 [whatitis.dev](https://whatitis.dev/) · [signal.youpan.com](https://signal.youpan.com/) · [LinkedIn](https://www.linkedin.com/in/pepa-dom)
 
